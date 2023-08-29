@@ -1,5 +1,5 @@
 # Car-breakdown-solution-program
-Program designed to be of help in breakdown/mechanical services. Depending on the car model, an expert can follow the guidelines on how to fix or guide a client to fix their car with ease.
+Program designed to be of help in breakdown/mechanical services. Depending on the car model, an expert can follow the guidelines on how to fix or guide a client to fix their car with ease. No need of searching it online since it will be a desktop app. 
 
 Check it out>>>>>
 ![image](https://github.com/watchout254/Car-breakdown-solution-program/assets/88248852/1a629d10-96e5-44a0-b31f-9b8d27526844)
