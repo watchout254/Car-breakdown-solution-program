@@ -6,11 +6,6 @@
 #Don't steal hahaha kidding, give me my credits. Love. In a bit
 
 import sys
-import volks
-import mobius
-import honda
-import mazda
-import subaru
 
 print("\t\t\t\t\t\t\t\tWELCOME TO FRADS CAR SOLUTIONS.")
 print("\t\t\t\tVery warm welcome, we solve car problems before further actions.")
