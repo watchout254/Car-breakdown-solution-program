@@ -968,7 +968,7 @@ while not finish:
             print("Exiting the program...........!!")
             sys.exit()
 
-      again = input("Type 'yes' to play again, else 'no' to quit: \n")
+      again = input("Type 'yes' to try again, else 'no' to quit: \n")
       if again == "no":
             finish = True
             print("Byee.!!👋👋👋")
