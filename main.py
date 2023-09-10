@@ -3,7 +3,6 @@
 #License: MIT
 #Date: 29/08/23
 #Inspiration: Driving experience and car lover.
-#Don't steal hahaha kidding, give me my credits. Love. In a bit
 
 import sys
 
