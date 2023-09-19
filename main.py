@@ -280,7 +280,7 @@ while not finish:
                         f"\t\t\t****************Thank you. Mobius got you*************************\n\n")
 
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 2:
@@ -418,7 +418,7 @@ while not finish:
                         f"\t\t\t****************Thank you. Toyota got you*************************\n\n")
 
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
       if choice == 3:
             honda()
@@ -532,7 +532,7 @@ while not finish:
                         f"To prevent future fuel pump issues, ensure you use high-quality fuel, avoid running the vehicle on a near-empty tank, and regularly maintain your vehicle according to the manufacturer's recommended service schedule.\n"
                         f"\t\t\t****************Thank you. Honda got you*************************\n\n")
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 4:
@@ -591,7 +591,7 @@ while not finish:
                         f"\t\t\t****************Thank you. Mazda got you*************************\n\n")
 
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 5:
@@ -715,7 +715,7 @@ while not finish:
                         f"If the issue appears to be a hardware problem or a more complex software issue, it may require a visit to a Subaru service center. Certified Subaru technicians can diagnose and repair the system, ensuring it functions correctly.\n"
                         f"\t\t\t****************Thank you. Subaru got you*************************\n\n")
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 6:
@@ -803,7 +803,7 @@ while not finish:
                         f"\t\t\t****************Thank you. Volkswagen got you*************************\n\n")
 
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 7:
@@ -904,7 +904,7 @@ while not finish:
                         f"\t\t\t****************Thank you. Mercedes got you*************************\n\n"
                         )
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 8:
@@ -960,7 +960,7 @@ while not finish:
                           f"\t\t\t****************Thank you. BMW got you*************************\n\n")
 
             else:
-                  print("\t\tClosing the program.🙋‍♂️🙋‍♂️🙋‍♂️")
+                  print("\t\tClosing the program.🙋‍♂️")
                   sys.exit()
 
       if choice == 9:
