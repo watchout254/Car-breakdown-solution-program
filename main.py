@@ -964,7 +964,7 @@ while not finish:
                   sys.exit()
 
       if choice == 9:
-            print("Exiting the program...........!!")
+            print("Exiting the program...........Turus!!")
             sys.exit()
 
       again = input("Type 'yes' to play again, else 'no' to quit: \n")
