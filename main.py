@@ -1,7 +1,7 @@
 #Title: Car breakdown solution program
 #Author: Daniel Mukenya Nyongesa
 #License: MIT
-#Date: 29/08/23
+
 #Inspiration: Driving experience and car lover.
 
 import sys
